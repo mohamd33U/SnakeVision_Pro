@@ -34,10 +34,10 @@ else:
 
     # Replace with your database connection details
     config = {
-        'user': 'root',
-        'password': 'CD445325',
-        'host': 'localhost',
-        'database': 'snake_database',  # Ensure this database exists
+        'user': 'your',
+        'password': 'your',
+        'host': 'your',
+        'database': 'your',  # Ensure this database exists
     }
 
     try:
