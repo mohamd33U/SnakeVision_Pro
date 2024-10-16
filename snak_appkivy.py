@@ -111,10 +111,10 @@ class CameraScreen(Screen):
 
         # Database connection
         config = {
-            'user': 'root',
-            'password': 'CD445325',
+            'user': 'your',
+            'password': 'your',
             'host': 'localhost',
-            'database': 'snake_database',
+            'database': 'your',
         }
 
         try:
